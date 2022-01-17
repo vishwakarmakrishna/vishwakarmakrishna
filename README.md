@@ -47,7 +47,7 @@
 
 #### **Hosting/SaaS**:
 
-<img height=23 src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=#00C7B7)">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></code><img height=23 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+<img height=23 src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=#00C7B7)">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></code>&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
 
 #### **Version Control**:
 
