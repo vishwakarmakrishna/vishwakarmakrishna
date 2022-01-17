@@ -20,8 +20,6 @@
 - 🏫 He is a Junior pursuing a Master’s degree in Computer Application from the Hiray College, Mumbai, India.
 - ⚡️ His expertise primarily revolves around Flutter, JavaScript, Node, Firebase, Mobile App Development, Java, Python and a little bit about Graphic Design & UI/UX Designs.
 - 🔭 He is currently working with Dataviv Technologies as Flutter Development.
-- ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
-
 
 <br>
 
