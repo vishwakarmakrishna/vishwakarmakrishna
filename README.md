@@ -25,8 +25,8 @@
 
 ### **My Experiences**:
 
-<a href="https://dataviv.in/"><img src="https://img.shields.io/badge/Dataviv-Technology-%23FFFC00.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-October_2021_Present-%23FFFC00.svg?style=for-the-badge"/></a></br>
-<a href="https://celledge.in/"><img src="https://img.shields.io/badge/Celledge-Technology-%23FFFC00.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-October_2021_Present-%23FFFC00.svg?style=for-the-badge"/></a>
+<a href="https://dataviv.in/"><img src="https://img.shields.io/badge/Dataviv-Technology-%23FFFC00.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-October_2021-Present-%2300AFF0.svg?style=for-the-badge"/></a></br>
+<a href="https://celledge.in/"><img src="https://img.shields.io/badge/Celledge-Technology-%23FFFC00.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-May_2019-August _2019-%2300AFF0.svg?style=for-the-badge"/></a>
 
 ### **My Portfolio**:
 
