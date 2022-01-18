@@ -5,7 +5,7 @@
 #### Let's connect:
 
 <br>
-
+<a href="https://g.dev/krishnavishwakarma/"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://twitter.com/intent/follow?screen_name=ig_krishnakumar"><img src="https://img.shields.io/badge/ig_krishnakumar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/krishnakumarvishwakarmaog/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:krishnavishwakarma.og@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -22,6 +22,11 @@
 - 🔭 He is currently working with Dataviv Technologies as Flutter Development.
 
 <br>
+
+### **My Experiences**:
+
+<a href="https://dataviv.in/"><img src="https://img.shields.io/badge/Dataviv-Technology-%23FFFC00.svg?style=for-the-badge"/></a>
+<a href="https://celledge.in/"><img src="https://img.shields.io/badge/Celledge-Technology-%23FFFC00.svg?style=for-the-badge"/></a>
 
 ### **My Portfolio**:
 
