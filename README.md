@@ -44,7 +44,7 @@
 
 #### **Servers**:
 
-<img height=23 src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red">
+<img height=23 src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 
 ##### **Databases**:
 
