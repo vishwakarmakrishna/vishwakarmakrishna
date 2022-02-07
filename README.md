@@ -4,6 +4,13 @@
 
 #### Let's connect:
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sajalrock&theme=react&show_icons=true&count_private=true">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalrock&theme=tokyonight&layout=compact&langs_count=5">
+</div>
+
 <br>
 <a href="https://g.dev/krishnavishwakarma/"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://twitter.com/intent/follow?screen_name=ig_krishnakumar"><img src="https://img.shields.io/badge/ig_krishnakumar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
