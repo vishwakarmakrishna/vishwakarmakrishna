@@ -2,7 +2,9 @@
 
 <br>
 
-#### Let's connect:
+
+#### Status:
+
 
 <div >
 <img src="https://github-readme-stats.vercel.app/api?username=kv0871916&theme=midnight-purple&show_icons=true&count_private=true">
@@ -10,6 +12,10 @@
 <div >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kv0871916&theme=midnight-purple&layout=compact&langs_count=5">
 </div>
+
+
+#### Let's connect:
+
 
 <br>
 <a href="https://g.dev/krishnavishwakarma/"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
