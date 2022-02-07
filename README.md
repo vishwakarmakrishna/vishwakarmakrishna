@@ -3,16 +3,6 @@
 <br>
 
 
-#### Stats:
-
-
-<div >
-<img src="https://github-readme-stats.vercel.app/api?username=kv0871916&theme=midnight-purple&show_icons=true&count_private=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kv0871916&theme=midnight-purple&layout=compact&langs_count=5">
-</div>
-<div >
-
-</div>
-
 
 #### Let's connect:
 
@@ -74,3 +64,16 @@
 #### **Others**:
 
 <img height=23 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+
+#### Stats:
+
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kv0871916&theme=midnight-purple&show_icons=true&count_private=true"> 
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kv0871916&theme=midnight-purple&layout=compact&langs_count=5">
+</div>
+
+
