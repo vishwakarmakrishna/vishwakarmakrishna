@@ -22,13 +22,14 @@
 
 - 🏫 He is a Junior pursuing a Master’s degree in Computer Application from the Hiray College, Mumbai, India.
 - ⚡️ His expertise primarily revolves around Flutter, JavaScript, Node, Firebase, Mobile App Development, Java, Python and a little bit about Graphic Design & UI/UX Designs.
-- 🔭 He is currently working with Dataviv Technologies as Flutter Development.
+- 🔭 He is currently working with Slo Mo Experiences Private Limited as Flutter Development.
 
 <br>
 
 ### **My Experiences**:
 
-<a href="https://dataviv.in/"><img src="https://img.shields.io/badge/DATAVIV-TECHNOLOGIES-%23FFFC00.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-October_2021_till_Present-%23107C10.svg?style=for-the-badge"/></a></br>
+<a href="https://celledge.in/"><img src="https://img.shields.io/badge/Slo-Mo-Experiences-Private-Limited-%23E4405F.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-March_2022_till_Present-%2300AFF0.svg?style=for-the-badge"/></a>
+<a href="https://dataviv.in/"><img src="https://img.shields.io/badge/Slo-Mo-Experiences-Private-Limited-%23FFFC00.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-October_2021_till_March_2022-%23107C10.svg?style=for-the-badge"/></a></br>
 <a href="https://celledge.in/"><img src="https://img.shields.io/badge/CELLEGE-TECHNOLOGIES-%23E4405F.svg?style=for-the-badge"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Experience-May_2019_till_August_2019-%2300AFF0.svg?style=for-the-badge"/></a>
 
 ### **My Portfolio**:
