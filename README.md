@@ -28,12 +28,6 @@
 
 <br>
 
-### **My Experiences**:
-
-<a href="https://rooftopapp.com/"><img src="https://img.shields.io/badge/Slo%20Mo%20Experiences-March%202022%20--%20Present-green?style=for-the-badge"/>&nbsp;&nbsp;</a>
-<a href="https://dataviv.in/"><img src="https://img.shields.io/badge/Dataviv%20Technology-October%202021%20--%20March%202022-blue?style=for-the-badge"/>&nbsp;&nbsp;</a></br>
-<a href="https://celledge.in/"><img src="https://img.shields.io/badge/Celledge%20Technologies-May%202019%20till%20August%202019-orange?style=for-the-badge"/>&nbsp;&nbsp;</a>
-
 ### **My Portfolio**:
 
 <a href="https://krishnakumarvishog.web.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
