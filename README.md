@@ -20,11 +20,14 @@
 
 <br>
 
-#### 🤔 Who Is Krishna Vishwakarma ?
+## 🚀 About Me
+I'm a passionate Software Developer with 5+ years of experience, specializing in Flutter and cross-platform development. Currently working at Techsevin Solution LLP, I've contributed to numerous successful projects including Beautiful App, Bharat E-mart, Health App, and Colorbar App.
 
-- 🏫 He is a Junior pursuing a Master’s degree in Computer Application from the Hiray College, Mumbai, India.
-- ⚡️ His expertise primarily revolves around Flutter, JavaScript, Node, Firebase, Mobile App Development, Java, Python and a little bit about Graphic Design & UI/UX Designs.
-- 🔭 He is currently working with Slo Mo Experiences Private Limited as Flutter Development.
+- 🎓 MCA from Hiray College, Mumbai (2021-2023)
+- 💼 Full Stack Developer with expertise in Flutter, React, and AWS
+- 🌟 Featured on Shark Tank India with Rooftop App
+- 🔭 Currently working on innovative mobile applications
+- 🌱 Always learning and exploring new technologies
 
 <br>
 
