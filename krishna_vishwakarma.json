@@ -1,7 +1,7 @@
 {
   "personal_info": {
     "first_name": "Krishna Kumar",
-    "middle_name": "Harishankar",
+    "middle_name": "Harishankar", 
     "last_name": "Vishwakarma",
     "full_name": "Krishna Kumar Harishankar Vishwakarma",
     "title": "Flutter Developer",
@@ -9,7 +9,7 @@
     "gender": "Male",
     "location": {
       "city": "Mumbai",
-      "state": "Maharashtra",
+      "state": "Maharashtra", 
       "country": "India"
     }
   },
@@ -60,7 +60,7 @@
           "website": "https://beautiful.in/"
         },
         {
-          "name": "Bharat E-mart App",
+          "name": "Bharat E-mart App", 
           "description": "Developed comprehensive e-commerce platform with payment processing",
           "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart"
         },
@@ -115,7 +115,7 @@
     },
     {
       "company": "Slo Mo Experiences Pvt Ltd",
-      "position": "Flutter Developer",
+      "position": "Flutter Developer", 
       "duration": "Mar 2022 – May 2023",
       "location": "Mumbai, India",
       "responsibilities": [
@@ -135,7 +135,7 @@
     {
       "company": "Dataviv Technologies Pvt Ltd",
       "position": "Flutter Developer",
-      "duration": "Oct 2021 – Mar 2022",
+      "duration": "Oct 2021 – Mar 2022", 
       "location": "Mumbai, India",
       "company_website": "https://dataviv.in/",
       "responsibilities": [
@@ -174,7 +174,7 @@
       "type": "Freelance",
       "responsibilities": [
         "Designed and developed safety-focused mobile applications for educational institutions",
-        "Integrated APIs for tracking, visitor management, and asset monitoring",
+        "Integrated APIs for tracking, visitor management, and asset monitoring", 
         "Improved app usability and reliability for school safety"
       ],
       "key_projects": [
@@ -215,49 +215,56 @@
   "notable_projects": [
     {
       "name": "Rooftop Art-Learning App",
-      "highlights": [
-        "Featured on Shark Tank India (Season 3)"
-      ],
+      "highlights": ["Featured on Shark Tank India (Season 3)"],
       "description": "Art-learning platform with DRM-protected video content",
       "features": [
         "Implemented Firebase for analytics, messaging, and in-app purchases",
         "Integrated Razorpay for payment processing",
         "Utilized BLoC architecture for state management"
       ],
-      "technologies": [
-        "Flutter",
-        "Firebase",
-        "Razorpay",
-        "BLoC"
-      ],
+      "technologies": ["Flutter", "Firebase", "Razorpay", "BLoC"],
       "website": "https://rooftopapp.com/"
     },
     {
-      "name": "City Butcher Boy",
-      "description": "Multi-interface application for users, delivery personnel, and vendors",
+      "name": "Colorbar App",
+      "description": "Beauty and cosmetics application offering product information and virtual try-on features",
       "features": [
-        "Real-time order tracking and notifications",
-        "Integrated payment gateways and user authentication"
+        "Virtual try-on technology for beauty products",
+        "Product catalog and information system",
+        "Enhanced user experience for cosmetic shopping"
       ],
-      "technologies": [
-        "Flutter",
-        "Firebase",
-        "AWS",
-        "Django"
-      ]
+      "technologies": ["Flutter", "Firebase", "AR/VR Integration"],
+      "client_website": "https://www.colorbarcosmetics.com/"
     },
     {
-      "name": "Sporket Fantasy Sports Platform",
+      "name": "ProSchool.ai",
+      "description": "Learning Management System with AI-powered educational features",
+      "features": [
+        "AI-driven learning platform",
+        "Interactive educational content",
+        "Student progress tracking and analytics"
+      ],
+      "technologies": ["React.js", "AI/ML", "Firebase"],
+      "website": "https://proschool.ai/"
+    },
+    {
+      "name": "Kaya Skin Care App",
+      "description": "AI-powered skincare application with advanced face detection capabilities",
+      "features": [
+        "TensorFlow integration for face detection",
+        "Personalized skincare recommendations",
+        "AI-driven skin analysis"
+      ],
+      "technologies": ["Flutter", "TensorFlow", "Django", "AI/ML"]
+    },
+    {
+      "name": "Sporket Fantasy Sports Platform", 
       "description": "Fantasy sports platform with real-time updates and scoring",
       "features": [
         "User engagement features and leaderboards",
         "Secure payment processing and withdrawals"
       ],
-      "technologies": [
-        "Flutter",
-        "Firebase",
-        "REST APIs"
-      ]
+      "technologies": ["Flutter", "Firebase", "REST APIs"]
     }
   ],
   "flutter_packages_contributions": [
@@ -305,68 +312,30 @@
     "removed_apps": [
       "Cardish - removed from Play Store",
       "Sporket - removed from both stores",
-      "Medinsta - removed from Play Store",
+      "Medinsta - removed from Play Store", 
       "My Market - removed from Play Store",
       "City Butcher Boy - removed from Play Store",
       "MTopper - removed from Play Store"
     ]
   },
   "technical_skills": {
-    "languages": [
-      "Dart",
-      "JavaScript",
-      "Python"
-    ],
-    "frameworks": [
-      "Flutter",
-      "React.js",
-      "Node.js"
-    ],
-    "state_management": [
-      "BLoC Pattern",
-      "Provider",
-      "GetX"
-    ],
+    "languages": ["Dart", "JavaScript", "Python"],
+    "frameworks": ["Flutter", "React.js", "Node.js"],
+    "state_management": ["BLoC Pattern", "Provider", "GetX"],
     "backend_services": [
       "Firebase",
       "AWS (EC2, S3, Amplify)",
       "Django"
     ],
-    "databases": [
-      "MySQL",
-      "MongoDB",
-      "Firestore"
-    ],
+    "databases": ["MySQL", "MongoDB", "Firestore"],
     "cloud_services": [
       "Firebase (Authentication, Cloud Functions, Dynamic Links, Analytics, Messaging)"
     ],
-    "payment_gateways": [
-      "RazorPay",
-      "Stripe",
-      "Paytm"
-    ],
-    "ui_ux": [
-      "Custom Widgets",
-      "Responsive Design",
-      "Animation"
-    ],
-    "devops": [
-      "CI/CD",
-      "Codemagic",
-      "Fastlane",
-      "GitHub Actions",
-      "GitLab"
-    ],
-    "testing": [
-      "Unit Testing",
-      "Widget Testing",
-      "Integration Testing"
-    ],
-    "version_control": [
-      "Git",
-      "GitHub",
-      "GitLab"
-    ]
+    "payment_gateways": ["RazorPay", "Stripe", "Paytm"],
+    "ui_ux": ["Custom Widgets", "Responsive Design", "Animation"],
+    "devops": ["CI/CD", "Codemagic", "Fastlane", "GitHub Actions", "GitLab"],
+    "testing": ["Unit Testing", "Widget Testing", "Integration Testing"],
+    "version_control": ["Git", "GitHub", "GitLab"]
   },
   "certifications": [
     {
@@ -426,7 +395,7 @@
       "proficiency": "Professional"
     },
     {
-      "language": "Hindi",
+      "language": "Hindi", 
       "proficiency": "Native"
     },
     {
