@@ -1,417 +1,402 @@
 {
-    "personal_info": {
-        "first_name": "Krishna Kumar",
-        "middle_name": "Harishankar",
-        "last_name": "Vishwakarma",
-        "full_name": "Krishna Kumar Harishankar Vishwakarma",
-        "title": "Flutter Developer",
-        "date_of_birth": "07 Mar 2001",
-        "gender": "Male",
-        "location": {
-            "city": "Mumbai",
-            "state": "Maharashtra",
-            "country": "India"
-        }
+  "personal_info": {
+    "first_name": "Krishna Kumar",
+    "middle_name": "Harishankar", 
+    "last_name": "Vishwakarma",
+    "full_name": "Krishna Kumar Harishankar Vishwakarma",
+    "title": "Flutter Developer",
+    "date_of_birth": "07 Mar 2001",
+    "gender": "Male",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra", 
+      "country": "India"
+    }
+  },
+  "contact_info": {
+    "email": "krishnavishwakarma.og@gmail.com",
+    "alternative_email": "contact@krishnavishwakarma.in",
+    "phone": "+91-9987199169",
+    "website": {
+      "url": "https://krishnavishwakarma.in",
+      "display": "krishnavishwakarma.in"
     },
-    "contact_info": {
-        "email": "krishnavishwakarma.og@gmail.com",
-        "alternative_email": "contact@krishnavishwakarma.in",
-        "phone": "+91-9987199169",
-        "website": {
-            "url": "https://krishnavishwakarma.in",
-            "display": "krishnavishwakarma.in"
-        },
-        "linkedin": {
-            "url": "https://www.linkedin.com/in/krishnakumarvishwakarmaog/",
-            "username": "krishnakumarvishwakarmaog"
-        },
-        "github": {
-            "url": "https://github.com/vishwakarmakrishna",
-            "username": "vishwakarmakrishna"
-        },
-        "coding_platform": {
-            "name": "Coding Ninjas",
-            "profile": "Coding Ninjas"
-        }
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/krishnakumarvishwakarmaog/",
+      "username": "krishnakumarvishwakarmaog"
     },
-    "profile_summary": "Experienced Flutter Developer with 5+ years of expertise in cross-platform mobile application development, specializing in Flutter, Dart, and full-stack integration. Proven track record in developing intuitive UI/UX, optimizing performance, and implementing robust state management solutions. Strong experience with Firebase, AWS, and backend integration.",
-    "work_experience": [
-        {
-            "company": "Techsevin Solutions LLP",
-            "position": "Flutter Developer",
-            "duration": "Jan 2024 – present",
-            "location": "Mumbai, India",
-            "responsibilities": [
-                "Develop cross-platform mobile applications using Flutter for iOS and Android",
-                "Implement state management solutions with Provider and GetX",
-                "Integrate third-party APIs and payment gateways",
-                "Optimize app performance and conduct code reviews",
-                "Deploy applications to Google Play and Apple App Store"
-            ],
-            "key_projects": [
-                {
-                    "name": "Beautiful App",
-                    "description": "Designed visually appealing UI/UX with custom animations"
-                },
-                {
-                    "name": "Bharat E-mart App",
-                    "description": "Developed comprehensive e-commerce platform with payment processing"
-                },
-                {
-                    "name": "Health App",
-                    "description": "Created wellness tracking application with health metrics and analytics"
-                },
-                {
-                    "name": "Colorbar App",
-                    "description": "Built beauty product application with virtual try-on features"
-                }
-            ]
-        },
-        {
-            "company": "Arcitech Pvt Ltd",
-            "position": "Full Stack Developer",
-            "duration": "May 2023 – Jan 2024",
-            "location": "Lower Parel, Mumbai, India",
-            "responsibilities": [
-                "Led development of multiple Flutter applications for diverse client needs",
-                "Integrated AWS services (Amplify, S3, EC2) and Firebase for backend functionality",
-                "Implemented real-time features including chat and notifications",
-                "Developed AI portal with React.js for chatbot and content generation"
-            ],
-            "key_projects": [
-                {
-                    "name": "City Butcher Boy",
-                    "description": "Created multi-interface application for users, delivery, and vendors"
-                },
-                {
-                    "name": "Medinsta",
-                    "description": "Designed medicine ordering application with delivery tracking"
-                },
-                {
-                    "name": "My Wedding App",
-                    "description": "Developed wedding planning platform with event management"
-                },
-                {
-                    "name": "All Talent",
-                    "description": "Built talent management application with admin interface"
-                },
-                {
-                    "name": "ProSchool.ai",
-                    "description": "Contributed to Learning Management System using React.js"
-                }
-            ]
-        },
-        {
-            "company": "Slo Mo Experiences Pvt Ltd",
-            "position": "Flutter Developer",
-            "duration": "Mar 2022 – May 2023",
-            "location": "Mumbai, India",
-            "responsibilities": [
-                "Designed and developed art-learning platform with DRM-protected content",
-                "Implemented comprehensive testing framework using BLoC architecture",
-                "Established CI/CD pipelines with Codemagic and GitHub Actions",
-                "Integrated Firebase for analytics, messaging, and in-app purchases"
-            ],
-            "key_projects": [
-                {
-                    "name": "Rooftop App",
-                    "description": "Created art-learning platform featuring art wiki, workshops, and video content with DRM protection, featured on Shark Tank India"
-                }
-            ]
-        },
-        {
-            "company": "Dataviv Technologies Pvt Ltd",
-            "position": "Flutter Developer",
-            "duration": "Oct 2021 – Mar 2022",
-            "location": "Mumbai, India",
-            "responsibilities": [
-                "Enhanced mobile applications with TensorFlow and Django backend integration",
-                "Developed fantasy sports platform and e-commerce applications",
-                "Utilized Firebase for dynamic links, cloud notifications, and real-time updates"
-            ],
-            "key_projects": [
-                {
-                    "name": "Kaya Skin Care App",
-                    "description": "Integrated face detection with TensorFlow"
-                },
-                {
-                    "name": "Sporket",
-                    "description": "Developed fantasy sports platform with real-time updates"
-                },
-                {
-                    "name": "My Market",
-                    "description": "Created e-commerce application with Firebase integration"
-                },
-                {
-                    "name": "PlayerLinc",
-                    "description": "Built sports social media application"
-                },
-                {
-                    "name": "Cardish",
-                    "description": "Developed digital business card application"
-                }
-            ]
-        },
-        {
-            "company": "The School Guard",
-            "position": "Flutter Developer",
-            "duration": "Aug 2019 – Oct 2021",
-            "location": "Mumbai, India",
-            "type": "Freelance",
-            "responsibilities": [
-                "Designed and developed safety-focused mobile applications for educational institutions",
-                "Integrated APIs for tracking, visitor management, and asset monitoring",
-                "Improved app usability and reliability for school safety"
-            ],
-            "key_projects": [
-                {
-                    "name": "The School Guard App",
-                    "description": "Safety application for educational institutions"
-                }
-            ]
-        },
-        {
-            "company": "Celledge Technologies Pvt Ltd",
-            "position": "Social Media Manager",
-            "duration": "May 2019 – Aug 2019",
-            "location": "Mumbai, India",
-            "responsibilities": [
-                "Managed social media strategies and content creation",
-                "Increased brand awareness and customer engagement",
-                "Analyzed campaign performance and optimized marketing strategies"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "degree": "M.C.A.",
-            "institution": "Late Bhausaheb Hiray S S Trusts Institute of Computer Application",
-            "duration": "2021 – 2023",
-            "location": "Mumbai, India"
-        },
-        {
-            "degree": "B.Sc.IT",
-            "institution": "Sheth L.U.J. College of Arts And Sir M.V. College of Science and Commerce",
-            "duration": "2018 – 2021",
-            "location": "Mumbai, India"
-        }
-    ],
-    "notable_projects": [
-        {
-            "name": "Rooftop Art-Learning App",
-            "highlights": [
-                "Featured on Shark Tank India (Season 3)"
-            ],
-            "description": "Art-learning platform with DRM-protected video content",
-            "features": [
-                "Implemented Firebase for analytics, messaging, and in-app purchases",
-                "Integrated Razorpay for payment processing",
-                "Utilized BLoC architecture for state management"
-            ],
-            "technologies": [
-                "Flutter",
-                "Firebase",
-                "Razorpay",
-                "BLoC"
-            ]
-        },
-        {
-            "name": "City Butcher Boy",
-            "description": "Multi-interface application for users, delivery personnel, and vendors",
-            "features": [
-                "Real-time order tracking and notifications",
-                "Integrated payment gateways and user authentication"
-            ],
-            "technologies": [
-                "Flutter",
-                "Firebase",
-                "AWS",
-                "Django"
-            ]
-        },
-        {
-            "name": "Sporket Fantasy Sports Platform",
-            "description": "Fantasy sports platform with real-time updates and scoring",
-            "features": [
-                "User engagement features and leaderboards",
-                "Secure payment processing and withdrawals"
-            ],
-            "technologies": [
-                "Flutter",
-                "Firebase",
-                "REST APIs"
-            ]
-        }
-    ],
-    "flutter_packages_contributions": [
-        {
-            "name": "hexcolorname",
-            "description": "A Flutter plugin for Color's Name by Color Code. Supports iOS, Android, web, Windows, macOS, and Linux",
-            "status": "Published on pub.dev",
-            "link": "https://pub.dev/packages/hexcolorname",
-            "version": "^0.0.8",
-            "likes": 3,
-            "points": 130,
-            "downloads": 48,
-            "github_repo": "https://github.com/vishwakarmakrishna/hexcolorname",
-            "license": "MIT"
-        },
-        {
-            "contribution": "Contributed to various open-source Flutter projects",
-            "github_profile": "https://github.com/vishwakarmakrishna"
-        }
-    ],
-    "technical_skills": {
-        "languages": [
-            "Dart",
-            "JavaScript",
-            "Python"
-        ],
-        "frameworks": [
-            "Flutter",
-            "React.js",
-            "Node.js"
-        ],
-        "state_management": [
-            "BLoC Pattern",
-            "Provider",
-            "GetX"
-        ],
-        "backend_services": [
-            "Firebase",
-            "AWS (EC2, S3, Amplify)",
-            "Django"
-        ],
-        "databases": [
-            "MySQL",
-            "MongoDB",
-            "Firestore"
-        ],
-        "cloud_services": [
-            "Firebase (Authentication, Cloud Functions, Dynamic Links, Analytics, Messaging)"
-        ],
-        "payment_gateways": [
-            "RazorPay",
-            "Stripe",
-            "Paytm"
-        ],
-        "ui_ux": [
-            "Custom Widgets",
-            "Responsive Design",
-            "Animation"
-        ],
-        "devops": [
-            "CI/CD",
-            "Codemagic",
-            "Fastlane",
-            "GitHub Actions",
-            "GitLab"
-        ],
-        "testing": [
-            "Unit Testing",
-            "Widget Testing",
-            "Integration Testing"
-        ],
-        "version_control": [
-            "Git",
-            "GitHub",
-            "GitLab"
-        ]
+    "github": {
+      "url": "https://github.com/vishwakarmakrishna",
+      "username": "vishwakarmakrishna"
     },
-    "certifications": [
+    "social_media": {
+      "youtube": "https://www.youtube.com/krinfinity",
+      "instagram": "https://www.instagram.com/ig_krishnakumar/",
+      "twitter": "https://x.com/ig_krishnakumar"
+    },
+    "coding_platform": {
+      "name": "Coding Ninjas",
+      "profile": "Coding Ninjas"
+    }
+  },
+  "profile_summary": "Experienced Flutter Developer with 5+ years of expertise in cross-platform mobile application development, specializing in Flutter, Dart, and full-stack integration. Proven track record in developing intuitive UI/UX, optimizing performance, and implementing robust state management solutions. Strong experience with Firebase, AWS, and backend integration.",
+  "work_experience": [
+    {
+      "company": "Techsevin Solutions LLP",
+      "position": "Flutter Developer",
+      "duration": "Jan 2024 – present",
+      "location": "Mumbai, India",
+      "responsibilities": [
+        "Develop cross-platform mobile applications using Flutter for iOS and Android",
+        "Implement state management solutions with Provider and GetX",
+        "Integrate third-party APIs and payment gateways",
+        "Optimize app performance and conduct code reviews",
+        "Deploy applications to Google Play and Apple App Store"
+      ],
+      "key_projects": [
         {
-            "name": "Certified Ethical Hacker (CEH)",
-            "issuer": "FICKLEM NETWORKS PRIVATE LIMITED",
-            "date": "Jun 2023"
+          "name": "Beautiful App",
+          "description": "Designed visually appealing UI/UX with custom animations",
+          "website": "https://beautiful.in/"
+        },
+        {
+          "name": "Bharat E-mart App", 
+          "description": "Developed comprehensive e-commerce platform with payment processing",
+          "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart"
+        },
+        {
+          "name": "Health App",
+          "description": "Created wellness tracking application with health metrics and analytics"
+        },
+        {
+          "name": "Colorbar App",
+          "description": "Built beauty product application with virtual try-on features",
+          "client_website": "https://www.colorbarcosmetics.com/"
         }
-    ],
-    "courses": [
+      ]
+    },
+    {
+      "company": "Arcitech Pvt Ltd",
+      "position": "Full Stack Developer",
+      "duration": "May 2023 – Jan 2024",
+      "location": "Lower Parel, Mumbai, India",
+      "responsibilities": [
+        "Led development of multiple Flutter applications for diverse client needs",
+        "Integrated AWS services (Amplify, S3, EC2) and Firebase for backend functionality",
+        "Implemented real-time features including chat and notifications",
+        "Developed AI portal with React.js for chatbot and content generation"
+      ],
+      "key_projects": [
         {
-            "name": "Career Camp | Data Structures in Python",
-            "provider": "Coding Ninjas",
-            "link": "https://www.codingninjas.com/"
+          "name": "City Butcher Boy",
+          "description": "Created multi-interface application for users, delivery, and vendors"
         },
         {
-            "name": "Career Camp | Introduction to Python",
-            "provider": "Coding Ninjas",
-            "link": "https://www.codingninjas.com/"
+          "name": "Medinsta",
+          "description": "Designed medicine ordering application with delivery tracking"
         },
         {
-            "name": "Flutter Advanced Course - Clean Architecture With MVVM",
-            "provider": "Udemy",
-            "link": "https://www.udemy.com/"
+          "name": "My Wedding App",
+          "description": "Developed wedding planning platform with event management",
+          "app_store": "https://apps.apple.com/in/app/my-wedding-app/id6444424370"
         },
         {
-            "name": "Flutter testing : Unit, Widget & Integration testing",
-            "provider": "Udemy",
-            "link": "https://www.udemy.com/"
+          "name": "All Talent",
+          "description": "Built talent management application with admin interface",
+          "app_store": "https://apps.apple.com/in/app/all-talent/id1673413803"
         },
         {
-            "name": "Clean Code with Dart",
-            "provider": "LinkedIn",
-            "link": "https://www.linkedin.com/learning/"
-        },
-        {
-            "name": "Programming in HTML5 with JavaScript and CSS3",
-            "provider": "Programming Hub",
-            "link": "https://programminghub.io/"
-        },
-        {
-            "name": "How to Organize Your Time and Your Life",
-            "provider": "LinkedIn",
-            "link": "https://www.linkedin.com/learning/"
+          "name": "ProSchool.ai",
+          "description": "Contributed to Learning Management System using React.js",
+          "website": "https://proschool.ai/"
         }
-    ],
-    "publications": [
+      ]
+    },
+    {
+      "company": "Slo Mo Experiences Pvt Ltd",
+      "position": "Flutter Developer", 
+      "duration": "Mar 2022 – May 2023",
+      "location": "Mumbai, India",
+      "responsibilities": [
+        "Designed and developed art-learning platform with DRM-protected content",
+        "Implemented comprehensive testing framework using BLoC architecture",
+        "Established CI/CD pipelines with Codemagic and GitHub Actions",
+        "Integrated Firebase for analytics, messaging, and in-app purchases"
+      ],
+      "key_projects": [
         {
-            "title": "A Comprehensive Analysis and Strategy Development for Maximizing Code Reusability in Cross-Platform Development Frameworks",
-            "journal": "International Journal of Advanced Research in Science, Communication and Technology (IJARSCT)",
-            "date": "Jun 2023",
-            "journal_link": "https://ijarsct.co.in/"
+          "name": "Rooftop App",
+          "description": "Created art-learning platform featuring art wiki, workshops, and video content with DRM protection, featured on Shark Tank India",
+          "website": "https://rooftopapp.com/"
         }
-    ],
-    "languages": [
+      ]
+    },
+    {
+      "company": "Dataviv Technologies Pvt Ltd",
+      "position": "Flutter Developer",
+      "duration": "Oct 2021 – Mar 2022", 
+      "location": "Mumbai, India",
+      "responsibilities": [
+        "Enhanced mobile applications with TensorFlow and Django backend integration",
+        "Developed fantasy sports platform and e-commerce applications",
+        "Utilized Firebase for dynamic links, cloud notifications, and real-time updates"
+      ],
+      "key_projects": [
         {
-            "language": "English",
-            "proficiency": "Professional"
+          "name": "Kaya Skin Care App",
+          "description": "Integrated face detection with TensorFlow"
         },
         {
-            "language": "Hindi",
-            "proficiency": "Native"
+          "name": "Sporket",
+          "description": "Developed fantasy sports platform with real-time updates"
         },
         {
-            "language": "Marathi",
-            "proficiency": "Native"
+          "name": "My Market",
+          "description": "Created e-commerce application with Firebase integration"
+        },
+        {
+          "name": "PlayerLinc",
+          "description": "Built sports social media application"
+        },
+        {
+          "name": "Cardish",
+          "description": "Developed digital business card application"
         }
-    ],
-    "hobbies": [
+      ]
+    },
+    {
+      "company": "The School Guard",
+      "position": "Flutter Developer",
+      "duration": "Aug 2019 – Oct 2021",
+      "location": "Mumbai, India",
+      "type": "Freelance",
+      "responsibilities": [
+        "Designed and developed safety-focused mobile applications for educational institutions",
+        "Integrated APIs for tracking, visitor management, and asset monitoring", 
+        "Improved app usability and reliability for school safety"
+      ],
+      "key_projects": [
         {
-            "category": "Outdoor Activities",
-            "description": "Enjoy hiking and cycling to maintain a healthy work-life balance and foster a proactive mindset"
-        },
-        {
-            "category": "Gaming",
-            "description": "Passionate about gaming, exploring virtual worlds, and engaging in strategic gameplay to unwind and stay mentally agile"
-        },
-        {
-            "category": "Reading",
-            "description": "Technology blogs and literature, staying updated on the latest industry trends and advancements"
-        },
-        {
-            "category": "Social Media",
-            "description": "Actively contribute to the coding community on Youtube, Instagram, sharing coding snippets, tips, and insights",
-            "platforms": {
-                "youtube": "https://www.youtube.com/@krishnavishwakarma",
-                "instagram": "https://www.instagram.com/krishnavishwakarma",
-                "twitter": "https://twitter.com/krishnavishwakarma"
-            }
+          "name": "The School Guard App",
+          "description": "Safety application for educational institutions",
+          "play_store": "https://play.google.com/store/apps/details?id=com.theschoolgaurd.app&hl=en&gl=US"
         }
+      ]
+    },
+    {
+      "company": "Celledge Technologies Pvt Ltd",
+      "position": "Social Media Manager",
+      "duration": "May 2019 – Aug 2019",
+      "location": "Mumbai, India", 
+      "responsibilities": [
+        "Managed social media strategies and content creation",
+        "Increased brand awareness and customer engagement",
+        "Analyzed campaign performance and optimized marketing strategies"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.C.A.",
+      "institution": "Late Bhausaheb Hiray S S Trusts Institute of Computer Application",
+      "duration": "2021 – 2023",
+      "location": "Mumbai, India"
+    },
+    {
+      "degree": "B.Sc.IT",
+      "institution": "Sheth L.U.J. College of Arts And Sir M.V. College of Science and Commerce",
+      "duration": "2018 – 2021",
+      "location": "Mumbai, India"
+    }
+  ],
+  "notable_projects": [
+    {
+      "name": "Rooftop Art-Learning App",
+      "highlights": ["Featured on Shark Tank India (Season 3)"],
+      "description": "Art-learning platform with DRM-protected video content",
+      "features": [
+        "Implemented Firebase for analytics, messaging, and in-app purchases",
+        "Integrated Razorpay for payment processing",
+        "Utilized BLoC architecture for state management"
+      ],
+      "technologies": ["Flutter", "Firebase", "Razorpay", "BLoC"],
+      "website": "https://rooftopapp.com/"
+    },
+    {
+      "name": "City Butcher Boy",
+      "description": "Multi-interface application for users, delivery personnel, and vendors",
+      "features": [
+        "Real-time order tracking and notifications",
+        "Integrated payment gateways and user authentication"
+      ],
+      "technologies": ["Flutter", "Firebase", "AWS", "Django"]
+    },
+    {
+      "name": "Sporket Fantasy Sports Platform", 
+      "description": "Fantasy sports platform with real-time updates and scoring",
+      "features": [
+        "User engagement features and leaderboards",
+        "Secure payment processing and withdrawals"
+      ],
+      "technologies": ["Flutter", "Firebase", "REST APIs"]
+    }
+  ],
+  "company_links": {
+    "current_companies": [
+      {
+        "name": "Techsevin Solutions LLP",
+        "note": "Website SSL issues - unable to verify link"
+      }
     ],
-    "achievements": [
-        "Featured on Shark Tank India (Season 3) with Rooftop Art-Learning App",
-        "Published Flutter package 'hexcolorname' on pub.dev",
-        "5+ years of experience in Flutter development",
-        "Published research paper in IJARSCT journal",
-        "Successfully deployed multiple apps to Google Play Store and Apple App Store"
+    "previous_companies": [
+      {
+        "name": "Arcitech Pvt Ltd", 
+        "website": "https://arcitech.ai/"
+      },
+      {
+        "name": "Slo Mo Experiences Pvt Ltd",
+        "project_website": "https://rooftopapp.com/"
+      },
+      {
+        "name": "Dataviv Technologies Pvt Ltd",
+        "website": "https://dataviv.in/"
+      },
+      {
+        "name": "Celledge Technologies Pvt Ltd",
+        "website": "https://celledge.in/"
+      }
     ]
+  },
+    {
+      "name": "hexcolorname",
+      "description": "A Flutter plugin for Color's Name by Color Code. Supports iOS, Android, web, Windows, macOS, and Linux",
+      "status": "Published on pub.dev",
+      "link": "https://pub.dev/packages/hexcolorname",
+      "version": "^0.0.8",
+      "likes": 3,
+      "points": 130,
+      "downloads": 48,
+      "github_repo": "https://github.com/vishwakarmakrishna/hexcolorname",
+      "license": "MIT"
+    },
+    {
+      "contribution": "Contributed to various open-source Flutter projects",
+      "github_profile": "https://github.com/vishwakarmakrishna"
+    }
+  ],
+  "technical_skills": {
+    "languages": ["Dart", "JavaScript", "Python"],
+    "frameworks": ["Flutter", "React.js", "Node.js"],
+    "state_management": ["BLoC Pattern", "Provider", "GetX"],
+    "backend_services": [
+      "Firebase",
+      "AWS (EC2, S3, Amplify)",
+      "Django"
+    ],
+    "databases": ["MySQL", "MongoDB", "Firestore"],
+    "cloud_services": [
+      "Firebase (Authentication, Cloud Functions, Dynamic Links, Analytics, Messaging)"
+    ],
+    "payment_gateways": ["RazorPay", "Stripe", "Paytm"],
+    "ui_ux": ["Custom Widgets", "Responsive Design", "Animation"],
+    "devops": ["CI/CD", "Codemagic", "Fastlane", "GitHub Actions", "GitLab"],
+    "testing": ["Unit Testing", "Widget Testing", "Integration Testing"],
+    "version_control": ["Git", "GitHub", "GitLab"]
+  },
+  "certifications": [
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "issuer": "FICKLEM NETWORKS PRIVATE LIMITED",
+      "date": "Jun 2023"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Career Camp | Data Structures in Python",
+      "provider": "Coding Ninjas",
+      "link": "https://www.codingninjas.com/"
+    },
+    {
+      "name": "Career Camp | Introduction to Python",
+      "provider": "Coding Ninjas",
+      "link": "https://www.codingninjas.com/"
+    },
+    {
+      "name": "Flutter Advanced Course - Clean Architecture With MVVM",
+      "provider": "Udemy",
+      "link": "https://www.udemy.com/"
+    },
+    {
+      "name": "Flutter testing : Unit, Widget & Integration testing",
+      "provider": "Udemy",
+      "link": "https://www.udemy.com/"
+    },
+    {
+      "name": "Clean Code with Dart",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/learning/"
+    },
+    {
+      "name": "Programming in HTML5 with JavaScript and CSS3",
+      "provider": "Programming Hub",
+      "link": "https://programminghub.io/"
+    },
+    {
+      "name": "How to Organize Your Time and Your Life",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/learning/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "A Comprehensive Analysis and Strategy Development for Maximizing Code Reusability in Cross-Platform Development Frameworks",
+      "journal": "International Journal of Advanced Research in Science, Communication and Technology (IJARSCT)",
+      "date": "Jun 2023",
+      "journal_link": "https://ijarsct.co.in/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional"
+    },
+    {
+      "language": "Hindi", 
+      "proficiency": "Native"
+    },
+    {
+      "language": "Marathi",
+      "proficiency": "Native"
+    }
+  ],
+  "hobbies": [
+    {
+      "category": "Outdoor Activities",
+      "description": "Enjoy hiking and cycling to maintain a healthy work-life balance and foster a proactive mindset"
+    },
+    {
+      "category": "Gaming",
+      "description": "Passionate about gaming, exploring virtual worlds, and engaging in strategic gameplay to unwind and stay mentally agile"
+    },
+    {
+      "category": "Reading",
+      "description": "Technology blogs and literature, staying updated on the latest industry trends and advancements"
+    },
+    {
+      "category": "Social Media",
+      "description": "Actively contribute to the coding community on Youtube, Instagram, sharing coding snippets, tips, and insights",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@krishnavishwakarma",
+        "instagram": "https://www.instagram.com/krishnavishwakarma",
+        "twitter": "https://twitter.com/krishnavishwakarma"
+      }
+    }
+  ],
+  "achievements": [
+    "Featured on Shark Tank India (Season 3) with Rooftop Art-Learning App",
+    "Published Flutter package 'hexcolorname' on pub.dev",
+    "5+ years of experience in Flutter development",
+    "Published research paper in IJARSCT journal",
+    "Successfully deployed multiple apps to Google Play Store and Apple App Store"
+  ]
 }
