@@ -11,7 +11,9 @@
       "city": "Mumbai",
       "state": "Maharashtra", 
       "country": "India"
-    }
+    },
+    "profile_image": "me.png",
+    "name_logo": "name_logo.png"
   },
   "contact_info": {
     "email": "krishnavishwakarma.og@gmail.com",
@@ -46,6 +48,7 @@
       "position": "Flutter Developer",
       "duration": "Jan 2024 – present",
       "location": "Mumbai, India",
+      "asset_file_name": "techsevin.png",
       "responsibilities": [
         "Develop cross-platform mobile applications using Flutter for iOS and Android",
         "Implement state management solutions with Provider and GetX",
@@ -57,12 +60,14 @@
         {
           "name": "Beautiful App",
           "description": "Designed visually appealing UI/UX with custom animations",
-          "website": "https://beautiful.in/"
+          "website": "https://beautiful.in/",
+          "asset_file_name": "beautiful.jpeg"
         },
         {
           "name": "Bharat E-mart App", 
           "description": "Developed comprehensive e-commerce platform with payment processing",
-          "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart"
+          "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart",
+          "asset_file_name": "bharatemart.png"
         },
         {
           "name": "Health App",
@@ -71,7 +76,8 @@
         {
           "name": "Colorbar App",
           "description": "Built beauty product application with virtual try-on features",
-          "client_website": "https://www.colorbarcosmetics.com/"
+          "client_website": "https://www.colorbarcosmetics.com/",
+          "asset_file_name": "colorbar.png"
         }
       ]
     },
@@ -81,6 +87,7 @@
       "duration": "May 2023 – Jan 2024",
       "location": "Lower Parel, Mumbai, India",
       "company_website": "https://arcitech.ai/",
+      "asset_file_name": "arcitech.webp",
       "responsibilities": [
         "Led development of multiple Flutter applications for diverse client needs",
         "Integrated AWS services (Amplify, S3, EC2) and Firebase for backend functionality",
@@ -90,26 +97,31 @@
       "key_projects": [
         {
           "name": "City Butcher Boy",
-          "description": "Created multi-interface application for users, delivery, and vendors"
+          "description": "Created multi-interface application for users, delivery, and vendors",
+          "asset_file_name": "citybutcherboy.png"
         },
         {
           "name": "Medinsta",
-          "description": "Designed medicine ordering application with delivery tracking"
+          "description": "Designed medicine ordering application with delivery tracking",
+          "asset_file_name": "medinsta.webp"
         },
         {
           "name": "My Wedding App",
           "description": "Developed wedding planning platform with event management",
-          "app_store": "https://apps.apple.com/in/app/my-wedding-app/id6444424370"
+          "app_store": "https://apps.apple.com/in/app/my-wedding-app/id6444424370",
+          "asset_file_name": "myweddingapp.png"
         },
         {
           "name": "All Talent",
           "description": "Built talent management application with admin interface",
-          "app_store": "https://apps.apple.com/in/app/all-talent/id1673413803"
+          "app_store": "https://apps.apple.com/in/app/all-talent/id1673413803",
+          "asset_file_name": "alltalent.png"
         },
         {
           "name": "ProSchool.ai",
           "description": "Contributed to Learning Management System using React.js",
-          "website": "https://proschool.ai/"
+          "website": "https://proschool.ai/",
+          "asset_file_name": "proschool.jpeg"
         }
       ]
     },
@@ -128,7 +140,9 @@
         {
           "name": "Rooftop App",
           "description": "Created art-learning platform featuring art wiki, workshops, and video content with DRM protection, featured on Shark Tank India",
-          "website": "https://rooftopapp.com/"
+          "website": "https://rooftopapp.com/",
+          "asset_file_name": "rooftop.png",
+          "shark_tank_video_asset": "sharktankvideo.jpeg"
         }
       ]
     },
@@ -138,6 +152,7 @@
       "duration": "Oct 2021 – Mar 2022", 
       "location": "Mumbai, India",
       "company_website": "https://dataviv.in/",
+      "asset_file_name": "dataviv.webp",
       "responsibilities": [
         "Enhanced mobile applications with TensorFlow and Django backend integration",
         "Developed fantasy sports platform and e-commerce applications",
@@ -146,23 +161,29 @@
       "key_projects": [
         {
           "name": "Kaya Skin Care App",
-          "description": "Integrated face detection with TensorFlow"
+          "description": "Integrated face detection with TensorFlow",
+          "asset_file_name": "kaya.webp"
         },
         {
           "name": "Sporket",
-          "description": "Developed fantasy sports platform with real-time updates"
+          "description": "Developed fantasy sports platform with real-time updates",
+          "asset_file_name": "sporket.png",
+          "video_asset": "sporketvideo.jpeg"
         },
         {
           "name": "My Market",
-          "description": "Created e-commerce application with Firebase integration"
+          "description": "Created e-commerce application with Firebase integration",
+          "asset_file_name": "mymarket.png"
         },
         {
           "name": "PlayerLinc",
-          "description": "Built sports social media application"
+          "description": "Built sports social media application",
+          "asset_file_name": "playerclinc.png"
         },
         {
           "name": "Cardish",
-          "description": "Developed digital business card application"
+          "description": "Developed digital business card application",
+          "asset_file_name": "cardish.webp"
         }
       ]
     },
@@ -181,7 +202,8 @@
         {
           "name": "The School Guard App",
           "description": "Safety application for educational institutions",
-          "play_store": "https://play.google.com/store/apps/details?id=com.theschoolgaurd.app&hl=en&gl=US"
+          "play_store": "https://play.google.com/store/apps/details?id=com.theschoolgaurd.app&hl=en&gl=US",
+          "asset_file_name": "schoolgaurd.png"
         }
       ]
     },
@@ -191,6 +213,7 @@
       "duration": "May 2019 – Aug 2019",
       "location": "Mumbai, India",
       "company_website": "https://celledge.in/",
+      "asset_file_name": "celledge.webp",
       "responsibilities": [
         "Managed social media strategies and content creation",
         "Increased brand awareness and customer engagement",
@@ -223,7 +246,9 @@
         "Utilized BLoC architecture for state management"
       ],
       "technologies": ["Flutter", "Firebase", "Razorpay", "BLoC"],
-      "website": "https://rooftopapp.com/"
+      "website": "https://rooftopapp.com/",
+      "asset_file_name": "rooftop.png",
+      "shark_tank_video_asset": "sharktankvideo.jpeg"
     },
     {
       "name": "Colorbar App",
@@ -234,7 +259,8 @@
         "Enhanced user experience for cosmetic shopping"
       ],
       "technologies": ["Flutter", "Firebase", "AR/VR Integration"],
-      "client_website": "https://www.colorbarcosmetics.com/"
+      "client_website": "https://www.colorbarcosmetics.com/",
+      "asset_file_name": "colorbar.png"
     },
     {
       "name": "ProSchool.ai",
@@ -245,7 +271,8 @@
         "Student progress tracking and analytics"
       ],
       "technologies": ["React.js", "AI/ML", "Firebase"],
-      "website": "https://proschool.ai/"
+      "website": "https://proschool.ai/",
+      "asset_file_name": "proschool.jpeg"
     },
     {
       "name": "Kaya Skin Care App",
@@ -255,7 +282,8 @@
         "Personalized skincare recommendations",
         "AI-driven skin analysis"
       ],
-      "technologies": ["Flutter", "TensorFlow", "Django", "AI/ML"]
+      "technologies": ["Flutter", "TensorFlow", "Django", "AI/ML"],
+      "asset_file_name": "kaya.webp"
     },
     {
       "name": "Sporket Fantasy Sports Platform", 
@@ -264,7 +292,9 @@
         "User engagement features and leaderboards",
         "Secure payment processing and withdrawals"
       ],
-      "technologies": ["Flutter", "Firebase", "REST APIs"]
+      "technologies": ["Flutter", "Firebase", "REST APIs"],
+      "asset_file_name": "sporket.png",
+      "video_asset": "sporketvideo.jpeg"
     }
   ],
   "flutter_packages_contributions": [
@@ -278,7 +308,8 @@
       "points": 130,
       "downloads": 48,
       "github_repo": "https://github.com/vishwakarmakrishna/hexcolorname",
-      "license": "MIT"
+      "license": "MIT",
+      "asset_file_name": "hexcolorname.png"
     },
     {
       "contribution": "Contributed to various open-source Flutter projects",
@@ -289,33 +320,63 @@
     "working_links": [
       {
         "app": "Bharat E-mart",
-        "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart"
+        "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart",
+        "asset_file_name": "bharatemart.png"
       },
       {
         "app": "The School Guard",
-        "play_store": "https://play.google.com/store/apps/details?id=com.theschoolgaurd.app&hl=en&gl=US"
+        "play_store": "https://play.google.com/store/apps/details?id=com.theschoolgaurd.app&hl=en&gl=US",
+        "asset_file_name": "schoolgaurd.png"
       },
       {
         "app": "My Wedding App",
-        "app_store": "https://apps.apple.com/in/app/my-wedding-app/id6444424370"
+        "app_store": "https://apps.apple.com/in/app/my-wedding-app/id6444424370",
+        "asset_file_name": "myweddingapp.png"
       },
       {
         "app": "All Talent",
-        "app_store": "https://apps.apple.com/in/app/all-talent/id1673413803"
+        "app_store": "https://apps.apple.com/in/app/all-talent/id1673413803",
+        "asset_file_name": "alltalent.png"
       },
       {
         "app": "Employee Forums",
         "app_store": "https://apps.apple.com/cz/app/employee-forums/id6468505132?platform=iphone",
-        "website": "https://www.employeeforums.com/"
+        "website": "https://www.employeeforums.com/",
+        "asset_file_name": "empolyeefourm.webp"
       }
     ],
     "removed_apps": [
-      "Cardish - removed from Play Store",
-      "Sporket - removed from both stores",
-      "Medinsta - removed from Play Store", 
-      "My Market - removed from Play Store",
-      "City Butcher Boy - removed from Play Store",
-      "MTopper - removed from Play Store"
+      {
+        "app": "Cardish",
+        "status": "removed from Play Store",
+        "asset_file_name": "cardish.webp"
+      },
+      {
+        "app": "Sporket",
+        "status": "removed from both stores",
+        "asset_file_name": "sporket.png",
+        "video_asset": "sporketvideo.jpeg"
+      },
+      {
+        "app": "Medinsta",
+        "status": "removed from Play Store",
+        "asset_file_name": "medinsta.webp"
+      },
+      {
+        "app": "My Market",
+        "status": "removed from Play Store",
+        "asset_file_name": "mymarket.png"
+      },
+      {
+        "app": "City Butcher Boy",
+        "status": "removed from Play Store",
+        "asset_file_name": "citybutcherboy.png"
+      },
+      {
+        "app": "MTopper",
+        "status": "removed from Play Store",
+        "asset_file_name": "mtopper.webp"
+      }
     ]
   },
   "technical_skills": {
