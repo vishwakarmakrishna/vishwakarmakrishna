@@ -1,7 +1,7 @@
 {
   "personal_info": {
     "first_name": "Krishna Kumar",
-    "middle_name": "Harishankar", 
+    "middle_name": "Harishankar",
     "last_name": "Vishwakarma",
     "full_name": "Krishna Kumar Harishankar Vishwakarma",
     "title": "Flutter Developer",
@@ -9,7 +9,7 @@
     "gender": "Male",
     "location": {
       "city": "Mumbai",
-      "state": "Maharashtra", 
+      "state": "Maharashtra",
       "country": "India"
     }
   },
@@ -60,7 +60,7 @@
           "website": "https://beautiful.in/"
         },
         {
-          "name": "Bharat E-mart App", 
+          "name": "Bharat E-mart App",
           "description": "Developed comprehensive e-commerce platform with payment processing",
           "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart"
         },
@@ -80,6 +80,7 @@
       "position": "Full Stack Developer",
       "duration": "May 2023 – Jan 2024",
       "location": "Lower Parel, Mumbai, India",
+      "company_website": "https://arcitech.ai/",
       "responsibilities": [
         "Led development of multiple Flutter applications for diverse client needs",
         "Integrated AWS services (Amplify, S3, EC2) and Firebase for backend functionality",
@@ -114,7 +115,7 @@
     },
     {
       "company": "Slo Mo Experiences Pvt Ltd",
-      "position": "Flutter Developer", 
+      "position": "Flutter Developer",
       "duration": "Mar 2022 – May 2023",
       "location": "Mumbai, India",
       "responsibilities": [
@@ -134,8 +135,9 @@
     {
       "company": "Dataviv Technologies Pvt Ltd",
       "position": "Flutter Developer",
-      "duration": "Oct 2021 – Mar 2022", 
+      "duration": "Oct 2021 – Mar 2022",
       "location": "Mumbai, India",
+      "company_website": "https://dataviv.in/",
       "responsibilities": [
         "Enhanced mobile applications with TensorFlow and Django backend integration",
         "Developed fantasy sports platform and e-commerce applications",
@@ -172,7 +174,7 @@
       "type": "Freelance",
       "responsibilities": [
         "Designed and developed safety-focused mobile applications for educational institutions",
-        "Integrated APIs for tracking, visitor management, and asset monitoring", 
+        "Integrated APIs for tracking, visitor management, and asset monitoring",
         "Improved app usability and reliability for school safety"
       ],
       "key_projects": [
@@ -187,7 +189,8 @@
       "company": "Celledge Technologies Pvt Ltd",
       "position": "Social Media Manager",
       "duration": "May 2019 – Aug 2019",
-      "location": "Mumbai, India", 
+      "location": "Mumbai, India",
+      "company_website": "https://celledge.in/",
       "responsibilities": [
         "Managed social media strategies and content creation",
         "Increased brand awareness and customer engagement",
@@ -212,14 +215,21 @@
   "notable_projects": [
     {
       "name": "Rooftop Art-Learning App",
-      "highlights": ["Featured on Shark Tank India (Season 3)"],
+      "highlights": [
+        "Featured on Shark Tank India (Season 3)"
+      ],
       "description": "Art-learning platform with DRM-protected video content",
       "features": [
         "Implemented Firebase for analytics, messaging, and in-app purchases",
         "Integrated Razorpay for payment processing",
         "Utilized BLoC architecture for state management"
       ],
-      "technologies": ["Flutter", "Firebase", "Razorpay", "BLoC"],
+      "technologies": [
+        "Flutter",
+        "Firebase",
+        "Razorpay",
+        "BLoC"
+      ],
       "website": "https://rooftopapp.com/"
     },
     {
@@ -229,44 +239,28 @@
         "Real-time order tracking and notifications",
         "Integrated payment gateways and user authentication"
       ],
-      "technologies": ["Flutter", "Firebase", "AWS", "Django"]
+      "technologies": [
+        "Flutter",
+        "Firebase",
+        "AWS",
+        "Django"
+      ]
     },
     {
-      "name": "Sporket Fantasy Sports Platform", 
+      "name": "Sporket Fantasy Sports Platform",
       "description": "Fantasy sports platform with real-time updates and scoring",
       "features": [
         "User engagement features and leaderboards",
         "Secure payment processing and withdrawals"
       ],
-      "technologies": ["Flutter", "Firebase", "REST APIs"]
+      "technologies": [
+        "Flutter",
+        "Firebase",
+        "REST APIs"
+      ]
     }
   ],
-  "company_links": {
-    "current_companies": [
-      {
-        "name": "Techsevin Solutions LLP",
-        "note": "Website SSL issues - unable to verify link"
-      }
-    ],
-    "previous_companies": [
-      {
-        "name": "Arcitech Pvt Ltd", 
-        "website": "https://arcitech.ai/"
-      },
-      {
-        "name": "Slo Mo Experiences Pvt Ltd",
-        "project_website": "https://rooftopapp.com/"
-      },
-      {
-        "name": "Dataviv Technologies Pvt Ltd",
-        "website": "https://dataviv.in/"
-      },
-      {
-        "name": "Celledge Technologies Pvt Ltd",
-        "website": "https://celledge.in/"
-      }
-    ]
-  },
+  "flutter_packages_contributions": [
     {
       "name": "hexcolorname",
       "description": "A Flutter plugin for Color's Name by Color Code. Supports iOS, Android, web, Windows, macOS, and Linux",
@@ -284,24 +278,95 @@
       "github_profile": "https://github.com/vishwakarmakrishna"
     }
   ],
+  "app_store_links": {
+    "working_links": [
+      {
+        "app": "Bharat E-mart",
+        "play_store": "https://play.google.com/store/apps/details?id=com.bharatemart"
+      },
+      {
+        "app": "The School Guard",
+        "play_store": "https://play.google.com/store/apps/details?id=com.theschoolgaurd.app&hl=en&gl=US"
+      },
+      {
+        "app": "My Wedding App",
+        "app_store": "https://apps.apple.com/in/app/my-wedding-app/id6444424370"
+      },
+      {
+        "app": "All Talent",
+        "app_store": "https://apps.apple.com/in/app/all-talent/id1673413803"
+      },
+      {
+        "app": "Employee Forums",
+        "app_store": "https://apps.apple.com/cz/app/employee-forums/id6468505132?platform=iphone",
+        "website": "https://www.employeeforums.com/"
+      }
+    ],
+    "removed_apps": [
+      "Cardish - removed from Play Store",
+      "Sporket - removed from both stores",
+      "Medinsta - removed from Play Store",
+      "My Market - removed from Play Store",
+      "City Butcher Boy - removed from Play Store",
+      "MTopper - removed from Play Store"
+    ]
+  },
   "technical_skills": {
-    "languages": ["Dart", "JavaScript", "Python"],
-    "frameworks": ["Flutter", "React.js", "Node.js"],
-    "state_management": ["BLoC Pattern", "Provider", "GetX"],
+    "languages": [
+      "Dart",
+      "JavaScript",
+      "Python"
+    ],
+    "frameworks": [
+      "Flutter",
+      "React.js",
+      "Node.js"
+    ],
+    "state_management": [
+      "BLoC Pattern",
+      "Provider",
+      "GetX"
+    ],
     "backend_services": [
       "Firebase",
       "AWS (EC2, S3, Amplify)",
       "Django"
     ],
-    "databases": ["MySQL", "MongoDB", "Firestore"],
+    "databases": [
+      "MySQL",
+      "MongoDB",
+      "Firestore"
+    ],
     "cloud_services": [
       "Firebase (Authentication, Cloud Functions, Dynamic Links, Analytics, Messaging)"
     ],
-    "payment_gateways": ["RazorPay", "Stripe", "Paytm"],
-    "ui_ux": ["Custom Widgets", "Responsive Design", "Animation"],
-    "devops": ["CI/CD", "Codemagic", "Fastlane", "GitHub Actions", "GitLab"],
-    "testing": ["Unit Testing", "Widget Testing", "Integration Testing"],
-    "version_control": ["Git", "GitHub", "GitLab"]
+    "payment_gateways": [
+      "RazorPay",
+      "Stripe",
+      "Paytm"
+    ],
+    "ui_ux": [
+      "Custom Widgets",
+      "Responsive Design",
+      "Animation"
+    ],
+    "devops": [
+      "CI/CD",
+      "Codemagic",
+      "Fastlane",
+      "GitHub Actions",
+      "GitLab"
+    ],
+    "testing": [
+      "Unit Testing",
+      "Widget Testing",
+      "Integration Testing"
+    ],
+    "version_control": [
+      "Git",
+      "GitHub",
+      "GitLab"
+    ]
   },
   "certifications": [
     {
@@ -361,7 +426,7 @@
       "proficiency": "Professional"
     },
     {
-      "language": "Hindi", 
+      "language": "Hindi",
       "proficiency": "Native"
     },
     {
@@ -386,9 +451,9 @@
       "category": "Social Media",
       "description": "Actively contribute to the coding community on Youtube, Instagram, sharing coding snippets, tips, and insights",
       "platforms": {
-        "youtube": "https://www.youtube.com/@krishnavishwakarma",
-        "instagram": "https://www.instagram.com/krishnavishwakarma",
-        "twitter": "https://twitter.com/krishnavishwakarma"
+        "youtube": "https://www.youtube.com/krinfinity",
+        "instagram": "https://www.instagram.com/ig_krishnakumar/",
+        "twitter": "https://x.com/ig_krishnakumar"
       }
     }
   ],
